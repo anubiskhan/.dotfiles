@@ -10,5 +10,6 @@
 	credentialStore = keychain
 [core]
 	excludesfile = /Users/kellyschroeder/.gitignore
+	editor = nano
 [init]
 	defaultBranch = master
