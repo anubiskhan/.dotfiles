@@ -1,0 +1,14 @@
+[user]
+	email = anubiskhan@users.noreply.github.com
+	name = Kelly Schroeder
+
+[alias]
+	s = status
+	cm = commit -m
+	co = checkout
+[credential]
+	credentialStore = keychain
+[core]
+	excludesfile = /Users/kellyschroeder/.gitignore
+[init]
+	defaultBranch = master
