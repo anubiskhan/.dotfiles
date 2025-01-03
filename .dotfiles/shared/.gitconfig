@@ -12,4 +12,4 @@
 	excludesfile = /Users/kellyschroeder/.gitignore
 	editor = nano
 [init]
-	defaultBranch = master
+	defaultBranch = main
